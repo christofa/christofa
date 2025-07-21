@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning different varieties of languages and libraries 
 - 💞️ I’m looking to collaborate on nice and complex projects
-- 📫 How to reach me christofaokoro@gmail.com
+- 📫 How to reach me: christofaokoro@gmail.com
 
 <!---
 christofa/christofa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
